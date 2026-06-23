@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Harishkumar-47/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
