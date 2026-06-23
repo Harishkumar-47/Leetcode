@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
