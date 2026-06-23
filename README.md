@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
