@@ -50,6 +50,7 @@
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Harishkumar-47/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -86,6 +87,7 @@
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1894-merge-strings-alternately](https://github.com/Harishkumar-47/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
