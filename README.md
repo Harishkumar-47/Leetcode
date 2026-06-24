@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -74,9 +76,14 @@
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
