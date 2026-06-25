@@ -18,6 +18,7 @@
 | [0792-binary-search](https://github.com/Harishkumar-47/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Harishkumar-47/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Harishkumar-47/Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -109,4 +111,9 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
