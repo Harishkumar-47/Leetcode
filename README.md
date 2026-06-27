@@ -20,6 +20,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1755-defuse-the-bomb](https://github.com/Harishkumar-47/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Harishkumar-47/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -115,6 +116,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/Harishkumar-47/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
