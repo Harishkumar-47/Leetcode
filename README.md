@@ -103,6 +103,7 @@
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Harishkumar-47/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harishkumar-47/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Harishkumar-47/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harishkumar-47/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Harishkumar-47/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
