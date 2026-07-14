@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0027-remove-element) |
+| [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
@@ -83,11 +84,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1022-unique-paths-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1791-richest-customer-wealth](https://github.com/Harishkumar-47/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
