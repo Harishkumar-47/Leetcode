@@ -27,6 +27,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harishkumar-47/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
