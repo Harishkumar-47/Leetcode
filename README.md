@@ -28,6 +28,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harishkumar-47/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0009-palindrome-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -136,4 +140,8 @@
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1022-unique-paths-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
