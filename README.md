@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
