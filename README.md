@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Harishkumar-47/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
