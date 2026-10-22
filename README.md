@@ -31,6 +31,7 @@
 | [2486-most-frequent-even-element](https://github.com/Harishkumar-47/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harishkumar-47/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-47/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -112,6 +113,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Harishkumar-47/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harishkumar-47/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
