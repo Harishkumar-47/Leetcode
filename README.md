@@ -44,6 +44,7 @@
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2486-most-frequent-even-element](https://github.com/Harishkumar-47/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Harishkumar-47/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Harishkumar-47/Leetcode/tree/master/0792-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -127,6 +129,7 @@
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Harishkumar-47/Leetcode/tree/master/0953-reverse-only-letters) |
+| [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harishkumar-47/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Harishkumar-47/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -165,4 +168,8 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Harishkumar-47/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
