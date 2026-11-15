@@ -105,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harishkumar-47/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harishkumar-47/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0344-reverse-string) |
@@ -153,6 +155,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
 | [1022-unique-paths-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Number Theory
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
