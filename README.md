@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/Harishkumar-47/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/Harishkumar-47/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -109,6 +110,7 @@
 | [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +181,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
