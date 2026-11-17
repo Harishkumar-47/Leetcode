@@ -135,6 +135,7 @@
 | [0953-reverse-only-letters](https://github.com/Harishkumar-47/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harishkumar-47/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Harishkumar-47/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harishkumar-47/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
