@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Harishkumar-47/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Binary Search
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Harishkumar-47/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
