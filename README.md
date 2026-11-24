@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harishkumar-47/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Harishkumar-47/Leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
@@ -42,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harishkumar-47/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0567-permutation-in-string) |
@@ -55,6 +57,7 @@
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harishkumar-47/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -81,12 +84,14 @@
 | ------- |
 | [0136-single-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Harishkumar-47/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harishkumar-47/Leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishkumar-47/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Harishkumar-47/Leetcode/tree/master/0792-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/Harishkumar-47/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harishkumar-47/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -117,6 +122,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Harishkumar-47/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harishkumar-47/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harishkumar-47/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Harishkumar-47/Leetcode/tree/master/2413-smallest-even-multiple) |
