@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Harishkumar-47/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Harishkumar-47/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishkumar-47/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harishkumar-47/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Harishkumar-47/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harishkumar-47/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harishkumar-47/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishkumar-47/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harishkumar-47/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harishkumar-47/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harishkumar-47/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishkumar-47/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +215,11 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harishkumar-47/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harishkumar-47/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Harishkumar-47/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harishkumar-47/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
